@@ -1,0 +1,3386 @@
+[
+  {
+    "id": 1,
+    "url": "/page/تنظيف-مكيفات-عمالة-فلبينية",
+    "targetKeyword": "تنظيف مكيفات عمالة فلبينية",
+    "intent": "Informational",
+    "wordCount": 68,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 2,
+    "url": "/page/تصليح-مكيفات-بالخرج",
+    "targetKeyword": "تصليح مكيفات بالخرج",
+    "intent": "Informational",
+    "wordCount": 187,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 3,
+    "url": "/page/نصائح-للحفاظ-على-التكييف",
+    "targetKeyword": "نصائح للحفاظ على التكييف",
+    "intent": "Informational",
+    "wordCount": 68,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 4,
+    "url": "/page/شركة-نقل-مكيفات-بالرياض",
+    "targetKeyword": "شركة نقل مكيفات بالرياض",
+    "intent": "Informational",
+    "wordCount": 187,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 5,
+    "url": "/page/فني-مكيفات-بالرياض",
+    "targetKeyword": "فني مكيفات بالرياض",
+    "intent": "Informational",
+    "wordCount": 187,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 6,
+    "url": "/page/غسيل-مكيف-سبليت",
+    "targetKeyword": "غسيل مكيف سبليت",
+    "intent": "Informational",
+    "wordCount": 67,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 7,
+    "url": "/page/تنظيف-مكيفات-سبليت",
+    "targetKeyword": "تنظيف مكيفات سبليت",
+    "intent": "Informational",
+    "wordCount": 67,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 8,
+    "url": "/page/شركة-صيانة-مكيفات-سبليت",
+    "targetKeyword": "شركة صيانة مكيفات سبليت",
+    "intent": "Informational",
+    "wordCount": 187,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 9,
+    "url": "/page/تنظيف-مكيفات-سبليت-بالرياض",
+    "targetKeyword": "تنظيف مكيفات سبليت بالرياض",
+    "intent": "Informational",
+    "wordCount": 392,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 10,
+    "url": "/page/شركة-فك-وتركيب-مكيفات",
+    "targetKeyword": "شركة فك وتركيب مكيفات",
+    "intent": "Informational",
+    "wordCount": 187,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 11,
+    "url": "/page/شركة-تنظيف-المكيفات-بالرياض",
+    "targetKeyword": "شركة تنظيف المكيفات بالرياض",
+    "intent": "Informational",
+    "wordCount": 68,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 12,
+    "url": "/page/شركة-نظافة-عامة",
+    "targetKeyword": "شركة نظافة عامة",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 13,
+    "url": "/page/اسعار-شركة-تنظيف-بالرياض",
+    "targetKeyword": "اسعار شركة تنظيف بالرياض",
+    "intent": "Commercial Investigation",
+    "wordCount": 68,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 14,
+    "url": "/page/تنظيف-مكيفات-شرق-الرياض",
+    "targetKeyword": "تنظيف مكيفات شرق الرياض",
+    "intent": "Informational",
+    "wordCount": 68,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 15,
+    "url": "/page/تصليح-مكيفات-الرياض",
+    "targetKeyword": "تصليح مكيفات الرياض",
+    "intent": "Informational",
+    "wordCount": 187,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 16,
+    "url": "/page/شركة-كشف-تسربات-المياه",
+    "targetKeyword": "شركة كشف تسربات المياه",
+    "intent": "Transactional / Local Service",
+    "wordCount": 153,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 17,
+    "url": "/page/شركة-غسيل-سيارات",
+    "targetKeyword": "شركة غسيل سيارات",
+    "intent": "Transactional / Local Service",
+    "wordCount": 104,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 18,
+    "url": "/page/دينا-نقل-عفش-بالرياض",
+    "targetKeyword": "دينا نقل عفش بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 189,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 19,
+    "url": "/page/شركة-مكافحة-حشرات-بالخرج",
+    "targetKeyword": "شركة مكافحة حشرات بالخرج",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services/mokafahat-hasharat-alryad",
+    "decision": "Remap Canonical to /services/mokafahat-hasharat-alryad"
+  },
+  {
+    "id": 20,
+    "url": "/page/تنظيف-المنزل-بفعالية",
+    "targetKeyword": "تنظيف المنزل بفعالية",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 21,
+    "url": "/page/شركة-تنظيف-فلل-بالخرج",
+    "targetKeyword": "شركة تنظيف فلل بالخرج",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 22,
+    "url": "/page/شركات-النظافة-بالسعودية",
+    "targetKeyword": "شركات النظافة بالسعودية",
+    "intent": "Commercial / Local",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 23,
+    "url": "/page/شركة-تنظيف-منازل-بالمزاحمية",
+    "targetKeyword": "شركة تنظيف منازل بالمزاحمية",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 24,
+    "url": "/page/شركة-تنظيف-بالخرج",
+    "targetKeyword": "شركة تنظيف بالخرج",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 25,
+    "url": "/page/تنظيف-مجالس-بالخرج",
+    "targetKeyword": "تنظيف مجالس بالخرج",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 26,
+    "url": "/page/شركة-تنظيف-موكيت-بالرياض",
+    "targetKeyword": "شركة تنظيف موكيت بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 371,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 27,
+    "url": "/page/شركة-نقل-عفش-بالرياض",
+    "targetKeyword": "شركة نقل عفش بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 189,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 28,
+    "url": "/page/شركة-نقل-العفش-داخل-الرياض",
+    "targetKeyword": "شركة نقل العفش داخل الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 69,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 29,
+    "url": "/page/شركات-نقل-العفش-بالرياض",
+    "targetKeyword": "شركات نقل العفش بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 68,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 30,
+    "url": "/page/ارخص-شركة-نقل-اثاث-بالرياض",
+    "targetKeyword": "ارخص شركة نقل اثاث بالرياض",
+    "intent": "Commercial Investigation",
+    "wordCount": 189,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 31,
+    "url": "/page/نقل-اثاث-شرق-الرياض",
+    "targetKeyword": "نقل اثاث شرق الرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 189,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 32,
+    "url": "/page/شركة-نقل-عفش-بالخرج",
+    "targetKeyword": "شركة نقل عفش بالخرج",
+    "intent": "Transactional / Local Service",
+    "wordCount": 189,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 33,
+    "url": "/page/نقل-عفش-بالرياض-باكستاني",
+    "targetKeyword": "نقل عفش بالرياض باكستاني",
+    "intent": "Commercial / Local",
+    "wordCount": 189,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 34,
+    "url": "/page/نقل-عفش-شرق-الرياض",
+    "targetKeyword": "نقل عفش شرق الرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 189,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 35,
+    "url": "/page/تنظيف-خزانات-شرق-الرياض",
+    "targetKeyword": "تنظيف خزانات شرق الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 36,
+    "url": "/page/شركة-تنظيف-خزانات-المياه",
+    "targetKeyword": "شركة تنظيف خزانات المياه",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 37,
+    "url": "/page/ارخص-شركة-تنظيف-في-الرياض",
+    "targetKeyword": "ارخص شركة تنظيف في الرياض",
+    "intent": "Commercial Investigation",
+    "wordCount": 250,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 38,
+    "url": "/page/تنظيف-بيوت-بالرياض",
+    "targetKeyword": "تنظيف بيوت بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 39,
+    "url": "/page/شركة-تنظيف-بضرما",
+    "targetKeyword": "شركة تنظيف بضرما",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 40,
+    "url": "/page/شركة-تنظيف-بالدرعية",
+    "targetKeyword": "شركة تنظيف بالدرعية",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 41,
+    "url": "/page/شركة-تنظيف-غرب-الرياض",
+    "targetKeyword": "شركة تنظيف غرب الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 383,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 42,
+    "url": "/page/خدمات-التنظيف-بالرياض",
+    "targetKeyword": "خدمات التنظيف بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 43,
+    "url": "/page/شركة-تنظيف-شرق-الرياض",
+    "targetKeyword": "شركة تنظيف شرق الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 44,
+    "url": "/page/شركة-تنظيف-بعد-الحريق",
+    "targetKeyword": "شركة تنظيف بعد الحريق",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 45,
+    "url": "/page/ارقام-شركة-تنظيف-بالرياض",
+    "targetKeyword": "ارقام شركة تنظيف بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 46,
+    "url": "/page/شركة-تنظيف-عمائر-بالرياض",
+    "targetKeyword": "شركة تنظيف عمائر بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 47,
+    "url": "/page/تنظيف-منازل-بالساعة",
+    "targetKeyword": "تنظيف منازل بالساعة",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 48,
+    "url": "/page/تطبيق-تنظيف-منازل-بالرياض",
+    "targetKeyword": "تطبيق تنظيف منازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 90,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 49,
+    "url": "/page/شركة-تنظيف-كنب-بالخرج",
+    "targetKeyword": "شركة تنظيف كنب بالخرج",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 50,
+    "url": "/page/تنظيف-منازل-بالخرج",
+    "targetKeyword": "تنظيف منازل بالخرج",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 51,
+    "url": "/page/شركة-تنظيف-مكيفات-بالخرج",
+    "targetKeyword": "شركة تنظيف مكيفات بالخرج",
+    "intent": "Informational",
+    "wordCount": 68,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 52,
+    "url": "/page/شركة-مكافحة-النمل-الابيض",
+    "targetKeyword": "شركة مكافحة النمل الابيض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 53,
+    "url": "/page/تنظيف-الأرضيات-والحوائط",
+    "targetKeyword": "تنظيف الأرضيات والحوائط",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 54,
+    "url": "/page/طرق-احترافية-لتنظيف-المنازل",
+    "targetKeyword": "طرق احترافية لتنظيف المنازل",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 55,
+    "url": "/page/شركة-تنظيف-الحوش-بالرياض",
+    "targetKeyword": "شركة تنظيف الحوش بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 56,
+    "url": "/page/شركة-تنظيف-ثريات",
+    "targetKeyword": "شركة تنظيف ثريات",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 57,
+    "url": "/page/شركة-تعقيم-بالرياض",
+    "targetKeyword": "شركة تعقيم بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 378,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 58,
+    "url": "/page/شركة-غسيل-سجاد-بالرياض",
+    "targetKeyword": "شركة غسيل سجاد بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 376,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 59,
+    "url": "/page/شركة-تنظيف-اثاث",
+    "targetKeyword": "شركة تنظيف اثاث",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 60,
+    "url": "/page/شركة-تسليك-مجاري",
+    "targetKeyword": "شركة تسليك مجاري",
+    "intent": "Transactional / Local Service",
+    "wordCount": 84,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 61,
+    "url": "/page/عمال-تنظيف-بالساعة",
+    "targetKeyword": "عمال تنظيف بالساعة",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 62,
+    "url": "/page/نصائح-تنظيف-المنازل",
+    "targetKeyword": "نصائح تنظيف المنازل",
+    "intent": "Informational",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 63,
+    "url": "/page/شركة-تنظيف-منازل-في-الرياض",
+    "targetKeyword": "شركة تنظيف منازل في الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 69,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 64,
+    "url": "/page/air-conditioner-alkharj",
+    "targetKeyword": "air-conditioner-alkharj",
+    "intent": "Commercial / Local",
+    "wordCount": 187,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 65,
+    "url": "/page/ونيـت-نقل-عفش-بالرياض",
+    "targetKeyword": "ونيـت نقل عفش بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 189,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 66,
+    "url": "/page/شركة-نقل-عفش-شمال-الرياض",
+    "targetKeyword": "شركة نقل عفش شمال الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 189,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 67,
+    "url": "/page/شركة-تنظيف-مفروشات-بالرياض",
+    "targetKeyword": "شركة تنظيف مفروشات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 394,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 68,
+    "url": "/page/شركة-تنظيف-مجالس-بالبخار",
+    "targetKeyword": "شركة تنظيف مجالس بالبخار",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 69,
+    "url": "/page/تنظيف-مجالس-بالبخار-بالرياض",
+    "targetKeyword": "تنظيف مجالس بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 399,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 70,
+    "url": "/page/شركة-تنظيف-مكاتب-بالرياض",
+    "targetKeyword": "شركة تنظيف مكاتب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 380,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 71,
+    "url": "/page/شركة-تنظيف-محلات-بالرياض",
+    "targetKeyword": "شركة تنظيف محلات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 72,
+    "url": "/page/شركة-تنظيف-خزانات-شمال-الرياض",
+    "targetKeyword": "شركة تنظيف خزانات شمال الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 69,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 73,
+    "url": "/page/شركة-مكافحة-البق-بالرياض",
+    "targetKeyword": "شركة مكافحة البق بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 74,
+    "url": "/page/شركة-عزل-خزانات-بالرياض",
+    "targetKeyword": "شركة عزل خزانات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 153,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 75,
+    "url": "/page/مكيفات-سبليت-مستعمل-الرياض",
+    "targetKeyword": "مكيفات سبليت مستعمل الرياض",
+    "intent": "Informational",
+    "wordCount": 187,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 76,
+    "url": "/page/شركة-تنظيف-بالساعة-في-الرياض",
+    "targetKeyword": "شركة تنظيف بالساعة في الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 69,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 77,
+    "url": "/page/شركة-رش-مبيدات-شمال-الرياض",
+    "targetKeyword": "شركة رش مبيدات شمال الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 69,
+    "primaryParentCluster": "/services/mokafahat-hasharat-alryad",
+    "decision": "Remap Canonical to /services/mokafahat-hasharat-alryad"
+  },
+  {
+    "id": 78,
+    "url": "/page/شركة-رش-مبيدات-شرق-الرياض",
+    "targetKeyword": "شركة رش مبيدات شرق الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 69,
+    "primaryParentCluster": "/services/mokafahat-hasharat-alryad",
+    "decision": "Remap Canonical to /services/mokafahat-hasharat-alryad"
+  },
+  {
+    "id": 79,
+    "url": "/page/تنظيف-شقق-شمال-الرياض",
+    "targetKeyword": "تنظيف شقق شمال الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services/tanzeef-shaqaq-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-shaqaq-alryad"
+  },
+  {
+    "id": 80,
+    "url": "/page/شركة-القضاء-على-الحشرات",
+    "targetKeyword": "شركة القضاء على الحشرات",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services/mokafahat-hasharat-alryad",
+    "decision": "Remap Canonical to /services/mokafahat-hasharat-alryad"
+  },
+  {
+    "id": 81,
+    "url": "/page/شركة-تنظيف-مدارس-بالرياض",
+    "targetKeyword": "شركة تنظيف مدارس بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 82,
+    "url": "/page/شركة-تنظيف-خيام-بالرياض",
+    "targetKeyword": "شركة تنظيف خيام بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 83,
+    "url": "/page/تنظيف-محلات-بالخرج",
+    "targetKeyword": "تنظيف محلات بالخرج",
+    "intent": "Transactional / Local Service",
+    "wordCount": 67,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 84,
+    "url": "/page/شركة-عزل-اسطح-بالرياض",
+    "targetKeyword": "شركة عزل اسطح بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 153,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 85,
+    "url": "/page/شركة-ابادة-حشرات-بالرياض",
+    "targetKeyword": "شركة ابادة حشرات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 68,
+    "primaryParentCluster": "/services/mokafahat-hasharat-alryad",
+    "decision": "Remap Canonical to /services/mokafahat-hasharat-alryad"
+  },
+  {
+    "id": 86,
+    "url": "/page/شركة-تنظيف-فلل-بالرياض",
+    "targetKeyword": "شركة تنظيف فلل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 87,
+    "url": "/page/أفضل-شركة-تنظيف-فلل-بالرياض",
+    "targetKeyword": "أفضل شركة تنظيف فلل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 399,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 88,
+    "url": "/page/شركة-تنظيف-كنب-بالرياض",
+    "targetKeyword": "شركة تنظيف كنب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 399,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 89,
+    "url": "/page/شركة-تنظيف-مجالس-بالرياض",
+    "targetKeyword": "شركة تنظيف مجالس بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 398,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 90,
+    "url": "/page/شركة-تنظيف-خزانات-بالرياض",
+    "targetKeyword": "شركة تنظيف خزانات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 392,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 91,
+    "url": "/page/شركة-تنظيف-منازل-بالرياض-بالساعة-نساء",
+    "targetKeyword": "شركة تنظيف منازل بالرياض بالساعة نساء",
+    "intent": "Transactional / Local Service",
+    "wordCount": 248,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 92,
+    "url": "/page/شركة-تنظيف-شمال-الرياض",
+    "targetKeyword": "شركة تنظيف شمال الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 379,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 93,
+    "url": "/page/شركة-تنظيف-بالرياض",
+    "targetKeyword": "شركة تنظيف بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 375,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 94,
+    "url": "/page/شركة-تنظيف-في-الرياض",
+    "targetKeyword": "شركة تنظيف في الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 372,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 95,
+    "url": "/page/شركات-تنظيف-بالرياض",
+    "targetKeyword": "شركات تنظيف بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 371,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 96,
+    "url": "/page/شركة-نظافة-بالرياض",
+    "targetKeyword": "شركة نظافة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 370,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 97,
+    "url": "/page/شركات-نظافة-بالرياض",
+    "targetKeyword": "شركات نظافة بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 371,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 98,
+    "url": "/page/تنظيف-بالرياض",
+    "targetKeyword": "تنظيف بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 361,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 99,
+    "url": "/page/خدمات-تنظيف-بالرياض",
+    "targetKeyword": "خدمات تنظيف بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 370,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 100,
+    "url": "/page/خدمات-النظافة-بالرياض",
+    "targetKeyword": "خدمات النظافة بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 374,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 101,
+    "url": "/page/أفضل-شركة-تنظيف-بالرياض",
+    "targetKeyword": "أفضل شركة تنظيف بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 383,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 102,
+    "url": "/page/افضل-شركة-تنظيف-بالرياض",
+    "targetKeyword": "افضل شركة تنظيف بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 383,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 103,
+    "url": "/page/أفضل-شركة-نظافة-بالرياض",
+    "targetKeyword": "أفضل شركة نظافة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 104,
+    "url": "/page/شركة-تنظيف-موثوقة-بالرياض",
+    "targetKeyword": "شركة تنظيف موثوقة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 105,
+    "url": "/page/شركة-تنظيف-رخيصة-بالرياض",
+    "targetKeyword": "شركة تنظيف رخيصة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 379,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 106,
+    "url": "/page/أرخص-شركة-تنظيف-بالرياض",
+    "targetKeyword": "أرخص شركة تنظيف بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 379,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 107,
+    "url": "/page/أسعار-شركات-التنظيف-بالرياض",
+    "targetKeyword": "أسعار شركات التنظيف بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 108,
+    "url": "/page/أسعار-تنظيف-بالرياض",
+    "targetKeyword": "أسعار تنظيف بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 370,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 109,
+    "url": "/page/رقم-شركة-تنظيف-بالرياض",
+    "targetKeyword": "رقم شركة تنظيف بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 110,
+    "url": "/page/شركة-تنظيف-قريبة-مني-بالرياض",
+    "targetKeyword": "شركة تنظيف قريبة مني بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 393,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 111,
+    "url": "/page/شركة-تنظيف-قريبة-مني",
+    "targetKeyword": "شركة تنظيف قريبة مني",
+    "intent": "Transactional / Local Service",
+    "wordCount": 373,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 112,
+    "url": "/page/شركة-تنظيف-24-ساعة-بالرياض",
+    "targetKeyword": "شركة تنظيف 24 ساعة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 393,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 113,
+    "url": "/page/شركة-تنظيف-متخصصة-بالرياض",
+    "targetKeyword": "شركة تنظيف متخصصة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 383,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 114,
+    "url": "/page/شركة-تنظيف-احترافية-بالرياض",
+    "targetKeyword": "شركة تنظيف احترافية بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 115,
+    "url": "/page/شركة-تنظيف-منازل-بالرياض",
+    "targetKeyword": "شركة تنظيف منازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 116,
+    "url": "/page/تنظيف-منازل-بالرياض",
+    "targetKeyword": "تنظيف منازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 382,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 117,
+    "url": "/page/شركات-تنظيف-منازل-بالرياض",
+    "targetKeyword": "شركات تنظيف منازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 118,
+    "url": "/page/أفضل-شركة-تنظيف-منازل-بالرياض",
+    "targetKeyword": "أفضل شركة تنظيف منازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 395,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 119,
+    "url": "/page/أرخص-شركة-تنظيف-منازل-بالرياض",
+    "targetKeyword": "أرخص شركة تنظيف منازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 400,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 120,
+    "url": "/page/خدمات-تنظيف-المنازل-بالرياض",
+    "targetKeyword": "خدمات تنظيف المنازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 121,
+    "url": "/page/شركة-نظافة-منازل-بالرياض",
+    "targetKeyword": "شركة نظافة منازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 122,
+    "url": "/page/تنظيف-البيت-بالرياض",
+    "targetKeyword": "تنظيف البيت بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 381,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 123,
+    "url": "/page/تنظيف-فلل-بالرياض",
+    "targetKeyword": "تنظيف فلل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 381,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 124,
+    "url": "/page/شركات-تنظيف-فلل-بالرياض",
+    "targetKeyword": "شركات تنظيف فلل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 125,
+    "url": "/page/تنظيف-فيلا-بالرياض",
+    "targetKeyword": "تنظيف فيلا بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 381,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 126,
+    "url": "/page/شركة-تنظيف-فيلا-بالرياض",
+    "targetKeyword": "شركة تنظيف فيلا بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 127,
+    "url": "/page/تنظيف-منازل-وفلل-بالرياض",
+    "targetKeyword": "تنظيف منازل وفلل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 128,
+    "url": "/page/شركة-تنظيف-منازل-وفلل-بالرياض",
+    "targetKeyword": "شركة تنظيف منازل وفلل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 399,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 129,
+    "url": "/page/شركة-تنظيف-شقق-بالرياض",
+    "targetKeyword": "شركة تنظيف شقق بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 386,
+    "primaryParentCluster": "/services/tanzeef-shaqaq-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-shaqaq-alryad"
+  },
+  {
+    "id": 130,
+    "url": "/page/تنظيف-شقق-بالرياض",
+    "targetKeyword": "تنظيف شقق بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 377,
+    "primaryParentCluster": "/services/tanzeef-shaqaq-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-shaqaq-alryad"
+  },
+  {
+    "id": 131,
+    "url": "/page/شركات-تنظيف-شقق-بالرياض",
+    "targetKeyword": "شركات تنظيف شقق بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 386,
+    "primaryParentCluster": "/services/tanzeef-shaqaq-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-shaqaq-alryad"
+  },
+  {
+    "id": 132,
+    "url": "/page/أفضل-شركة-تنظيف-شقق-بالرياض",
+    "targetKeyword": "أفضل شركة تنظيف شقق بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 395,
+    "primaryParentCluster": "/services/tanzeef-shaqaq-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-shaqaq-alryad"
+  },
+  {
+    "id": 133,
+    "url": "/page/تنظيف-شقة-بالرياض",
+    "targetKeyword": "تنظيف شقة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 382,
+    "primaryParentCluster": "/services/tanzeef-shaqaq-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-shaqaq-alryad"
+  },
+  {
+    "id": 134,
+    "url": "/page/شركة-تنظيف-شقة-بالرياض",
+    "targetKeyword": "شركة تنظيف شقة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services/tanzeef-shaqaq-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-shaqaq-alryad"
+  },
+  {
+    "id": 135,
+    "url": "/page/تنظيف-قصور-بالرياض",
+    "targetKeyword": "تنظيف قصور بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 382,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 136,
+    "url": "/page/شركة-تنظيف-قصور-بالرياض",
+    "targetKeyword": "شركة تنظيف قصور بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 386,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 137,
+    "url": "/page/تنظيف-قصر-بالرياض",
+    "targetKeyword": "تنظيف قصر بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 381,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 138,
+    "url": "/page/شركة-تنظيف-منازل-كبيرة-بالرياض",
+    "targetKeyword": "شركة تنظيف منازل كبيرة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 395,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 139,
+    "url": "/page/تنظيف-سكني-بالرياض",
+    "targetKeyword": "تنظيف سكني بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 382,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 140,
+    "url": "/page/شركات-تنظيف-سكنية-بالرياض",
+    "targetKeyword": "شركات تنظيف سكنية بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 141,
+    "url": "/page/تنظيف-منزل-كامل-بالرياض",
+    "targetKeyword": "تنظيف منزل كامل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 142,
+    "url": "/page/تنظيف-البيت-كامل-بالرياض",
+    "targetKeyword": "تنظيف البيت كامل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 143,
+    "url": "/page/تنظيف-المنزل-من-الداخل-بالرياض",
+    "targetKeyword": "تنظيف المنزل من الداخل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 400,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 144,
+    "url": "/page/تنظيف-منزل-قبل-السكن-بالرياض",
+    "targetKeyword": "تنظيف منزل قبل السكن بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 400,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 145,
+    "url": "/page/تنظيف-منزل-بعد-السكن-بالرياض",
+    "targetKeyword": "تنظيف منزل بعد السكن بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 400,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 146,
+    "url": "/page/تنظيف-المنزل-قبل-الانتقال-بالرياض",
+    "targetKeyword": "تنظيف المنزل قبل الانتقال بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 400,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 147,
+    "url": "/page/تنظيف-المنزل-بعد-الانتقال-بالرياض",
+    "targetKeyword": "تنظيف المنزل بعد الانتقال بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 399,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 148,
+    "url": "/page/شركة-تنظيف-قبل-السكن-بالرياض",
+    "targetKeyword": "شركة تنظيف قبل السكن بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 400,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 149,
+    "url": "/page/شركة-تنظيف-بعد-الانتقال-بالرياض",
+    "targetKeyword": "شركة تنظيف بعد الانتقال بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 395,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 150,
+    "url": "/page/تنظيف-منازل-قبل-المناسبات-بالرياض",
+    "targetKeyword": "تنظيف منازل قبل المناسبات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 395,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 151,
+    "url": "/page/تنظيف-عميق-بالرياض",
+    "targetKeyword": "تنظيف عميق بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 152,
+    "url": "/page/شركة-تنظيف-عميق-بالرياض",
+    "targetKeyword": "شركة تنظيف عميق بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 393,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 153,
+    "url": "/page/تنظيف-عميق-للمنزل-بالرياض",
+    "targetKeyword": "تنظيف عميق للمنزل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 386,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 154,
+    "url": "/page/تنظيف-عميق-للمنازل-بالرياض",
+    "targetKeyword": "تنظيف عميق للمنازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 155,
+    "url": "/page/تنظيف-عميق-للفلل-بالرياض",
+    "targetKeyword": "تنظيف عميق للفلل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 156,
+    "url": "/page/تنظيف-عميق-للشقق-بالرياض",
+    "targetKeyword": "تنظيف عميق للشقق بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services/tanzeef-shaqaq-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-shaqaq-alryad"
+  },
+  {
+    "id": 157,
+    "url": "/page/أفضل-شركة-تنظيف-عميق-بالرياض",
+    "targetKeyword": "أفضل شركة تنظيف عميق بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 403,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 158,
+    "url": "/page/أسعار-التنظيف-العميق-بالرياض",
+    "targetKeyword": "أسعار التنظيف العميق بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 394,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 159,
+    "url": "/page/تنظيف-شامل-بالرياض",
+    "targetKeyword": "تنظيف شامل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 160,
+    "url": "/page/شركة-تنظيف-شامل-بالرياض",
+    "targetKeyword": "شركة تنظيف شامل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 389,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 161,
+    "url": "/page/تنظيف-شامل-للمنزل-بالرياض",
+    "targetKeyword": "تنظيف شامل للمنزل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 386,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 162,
+    "url": "/page/تنظيف-شامل-للفلل-بالرياض",
+    "targetKeyword": "تنظيف شامل للفلل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 163,
+    "url": "/page/تنظيف-شامل-للشقق-بالرياض",
+    "targetKeyword": "تنظيف شامل للشقق بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services/tanzeef-shaqaq-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-shaqaq-alryad"
+  },
+  {
+    "id": 164,
+    "url": "/page/تنظيف-منازل-بالساعة-بالرياض",
+    "targetKeyword": "تنظيف منازل بالساعة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 165,
+    "url": "/page/شركة-تنظيف-منازل-بالساعة-بالرياض",
+    "targetKeyword": "شركة تنظيف منازل بالساعة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 395,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 166,
+    "url": "/page/تنظيف-بالساعة-بالرياض",
+    "targetKeyword": "تنظيف بالساعة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 167,
+    "url": "/page/شركة-تنظيف-بالساعة-بالرياض",
+    "targetKeyword": "شركة تنظيف بالساعة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 394,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 168,
+    "url": "/page/عاملات-تنظيف-بالساعة-بالرياض",
+    "targetKeyword": "عاملات تنظيف بالساعة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 389,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 169,
+    "url": "/page/عاملة-تنظيف-بالساعة-بالرياض",
+    "targetKeyword": "عاملة تنظيف بالساعة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 394,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 170,
+    "url": "/page/عاملات-تنظيف-منازل-بالرياض",
+    "targetKeyword": "عاملات تنظيف منازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 171,
+    "url": "/page/عاملة-تنظيف-منازل-بالرياض",
+    "targetKeyword": "عاملة تنظيف منازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 172,
+    "url": "/page/تنظيف-منزل-بالساعة-بالرياض",
+    "targetKeyword": "تنظيف منزل بالساعة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 173,
+    "url": "/page/تنظيف-شقق-بالساعة-بالرياض",
+    "targetKeyword": "تنظيف شقق بالساعة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services/tanzeef-shaqaq-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-shaqaq-alryad"
+  },
+  {
+    "id": 174,
+    "url": "/page/تنظيف-فلل-بالساعة-بالرياض",
+    "targetKeyword": "تنظيف فلل بالساعة بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 386,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 175,
+    "url": "/page/تنظيف-يومي-بالرياض",
+    "targetKeyword": "تنظيف يومي بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 380,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 176,
+    "url": "/page/تنظيف-أسبوعي-بالرياض",
+    "targetKeyword": "تنظيف أسبوعي بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 177,
+    "url": "/page/تنظيف-شهري-بالرياض",
+    "targetKeyword": "تنظيف شهري بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 178,
+    "url": "/page/تنظيف-دوري-للمنازل-بالرياض",
+    "targetKeyword": "تنظيف دوري للمنازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 179,
+    "url": "/page/شركة-تنظيف-يومي-بالرياض",
+    "targetKeyword": "شركة تنظيف يومي بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 394,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 180,
+    "url": "/page/شركة-تنظيف-دوري-بالرياض",
+    "targetKeyword": "شركة تنظيف دوري بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 389,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 181,
+    "url": "/page/تنظيف-كنب-بالرياض",
+    "targetKeyword": "تنظيف كنب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 182,
+    "url": "/page/شركات-تنظيف-كنب-بالرياض",
+    "targetKeyword": "شركات تنظيف كنب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 394,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 183,
+    "url": "/page/أفضل-شركة-تنظيف-كنب-بالرياض",
+    "targetKeyword": "أفضل شركة تنظيف كنب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 403,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 184,
+    "url": "/page/غسيل-كنب-بالرياض",
+    "targetKeyword": "غسيل كنب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 185,
+    "url": "/page/شركة-غسيل-كنب-بالرياض",
+    "targetKeyword": "شركة غسيل كنب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 399,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 186,
+    "url": "/page/تنظيف-كنب-بالبخار-بالرياض",
+    "targetKeyword": "تنظيف كنب بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 394,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 187,
+    "url": "/page/شركة-تنظيف-كنب-بالبخار-بالرياض",
+    "targetKeyword": "شركة تنظيف كنب بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 408,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 188,
+    "url": "/page/غسيل-كنب-بالبخار-بالرياض",
+    "targetKeyword": "غسيل كنب بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 399,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 189,
+    "url": "/page/تنظيف-مجالس-بالرياض",
+    "targetKeyword": "تنظيف مجالس بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 190,
+    "url": "/page/شركات-تنظيف-مجالس-بالرياض",
+    "targetKeyword": "شركات تنظيف مجالس بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 399,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 191,
+    "url": "/page/أفضل-شركة-تنظيف-مجالس-بالرياض",
+    "targetKeyword": "أفضل شركة تنظيف مجالس بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 403,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 192,
+    "url": "/page/شركة-تنظيف-مجالس-بالبخار-بالرياض",
+    "targetKeyword": "شركة تنظيف مجالس بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 403,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 193,
+    "url": "/page/غسيل-مجالس-بالرياض",
+    "targetKeyword": "غسيل مجالس بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 194,
+    "url": "/page/تنظيف-مجلس-عربي-بالرياض",
+    "targetKeyword": "تنظيف مجلس عربي بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 399,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 195,
+    "url": "/page/شركة-تنظيف-مجلس-عربي-بالرياض",
+    "targetKeyword": "شركة تنظيف مجلس عربي بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 407,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 196,
+    "url": "/page/تنظيف-الكنب-من-البقع-بالرياض",
+    "targetKeyword": "تنظيف الكنب من البقع بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 403,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 197,
+    "url": "/page/إزالة-بقع-الكنب-بالرياض",
+    "targetKeyword": "إزالة بقع الكنب بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 399,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 198,
+    "url": "/page/تنظيف-كنب-متسخ-بالرياض",
+    "targetKeyword": "تنظيف كنب متسخ بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 394,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 199,
+    "url": "/page/تنظيف-كنب-من-الغبار-بالرياض",
+    "targetKeyword": "تنظيف كنب من الغبار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 407,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 200,
+    "url": "/page/تنظيف-كنب-حرير-بالرياض",
+    "targetKeyword": "تنظيف كنب حرير بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 398,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 201,
+    "url": "/page/تنظيف-كنب-مخمل-بالرياض",
+    "targetKeyword": "تنظيف كنب مخمل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 394,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 202,
+    "url": "/page/تنظيف-كنب-شامواه-بالرياض",
+    "targetKeyword": "تنظيف كنب شامواه بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 394,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 203,
+    "url": "/page/تنظيف-مفروشات-بالرياض",
+    "targetKeyword": "تنظيف مفروشات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 204,
+    "url": "/page/غسيل-مفروشات-بالرياض",
+    "targetKeyword": "غسيل مفروشات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 389,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 205,
+    "url": "/page/تنظيف-أثاث-بالرياض",
+    "targetKeyword": "تنظيف أثاث بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 389,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 206,
+    "url": "/page/شركة-تنظيف-أثاث-بالرياض",
+    "targetKeyword": "شركة تنظيف أثاث بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 399,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 207,
+    "url": "/page/شركة-تنظيف-سجاد-بالرياض",
+    "targetKeyword": "شركة تنظيف سجاد بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 376,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 208,
+    "url": "/page/تنظيف-سجاد-بالرياض",
+    "targetKeyword": "تنظيف سجاد بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 362,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 209,
+    "url": "/page/شركات-تنظيف-سجاد-بالرياض",
+    "targetKeyword": "شركات تنظيف سجاد بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 375,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 210,
+    "url": "/page/أفضل-شركة-تنظيف-سجاد-بالرياض",
+    "targetKeyword": "أفضل شركة تنظيف سجاد بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 211,
+    "url": "/page/غسيل-سجاد-بالرياض",
+    "targetKeyword": "غسيل سجاد بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 367,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 212,
+    "url": "/page/تنظيف-سجاد-بالبخار-بالرياض",
+    "targetKeyword": "تنظيف سجاد بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 376,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 213,
+    "url": "/page/غسيل-سجاد-بالبخار-بالرياض",
+    "targetKeyword": "غسيل سجاد بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 375,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 214,
+    "url": "/page/تنظيف-موكيت-بالرياض",
+    "targetKeyword": "تنظيف موكيت بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 366,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 215,
+    "url": "/page/شركات-تنظيف-موكيت-بالرياض",
+    "targetKeyword": "شركات تنظيف موكيت بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 375,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 216,
+    "url": "/page/غسيل-موكيت-بالرياض",
+    "targetKeyword": "غسيل موكيت بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 366,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 217,
+    "url": "/page/شركة-غسيل-موكيت-بالرياض",
+    "targetKeyword": "شركة غسيل موكيت بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 371,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 218,
+    "url": "/page/تنظيف-موكيت-بالبخار-بالرياض",
+    "targetKeyword": "تنظيف موكيت بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 376,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 219,
+    "url": "/page/غسيل-موكيت-بالبخار-بالرياض",
+    "targetKeyword": "غسيل موكيت بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 376,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 220,
+    "url": "/page/تنظيف-سجاد-إيراني-بالرياض",
+    "targetKeyword": "تنظيف سجاد إيراني بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 376,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 221,
+    "url": "/page/تنظيف-سجاد-تركي-بالرياض",
+    "targetKeyword": "تنظيف سجاد تركي بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 376,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 222,
+    "url": "/page/تنظيف-السجاد-من-البقع-بالرياض",
+    "targetKeyword": "تنظيف السجاد من البقع بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 380,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 223,
+    "url": "/page/إزالة-بقع-السجاد-بالرياض",
+    "targetKeyword": "إزالة بقع السجاد بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 376,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 224,
+    "url": "/page/تنظيف-سجاد-المنازل-بالرياض",
+    "targetKeyword": "تنظيف سجاد المنازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 386,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 225,
+    "url": "/page/تنظيف-سجاد-الفلل-بالرياض",
+    "targetKeyword": "تنظيف سجاد الفلل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 226,
+    "url": "/page/تنظيف-سجاد-المساجد-بالرياض",
+    "targetKeyword": "تنظيف سجاد المساجد بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 371,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 227,
+    "url": "/page/شركة-تنظيف-سجاد-بالبخار-بالرياض",
+    "targetKeyword": "شركة تنظيف سجاد بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 228,
+    "url": "/page/شركة-تنظيف-موكيت-بالبخار-بالرياض",
+    "targetKeyword": "شركة تنظيف موكيت بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 380,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 229,
+    "url": "/page/تنظيف-فرش-بالرياض",
+    "targetKeyword": "تنظيف فرش بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 230,
+    "url": "/page/تنظيف-فرش-المنازل-بالرياض",
+    "targetKeyword": "تنظيف فرش المنازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 386,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 231,
+    "url": "/page/تنظيف-ستائر-بالرياض",
+    "targetKeyword": "تنظيف ستائر بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 232,
+    "url": "/page/شركة-تنظيف-ستائر-بالرياض",
+    "targetKeyword": "شركة تنظيف ستائر بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 399,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 233,
+    "url": "/page/غسيل-ستائر-بالرياض",
+    "targetKeyword": "غسيل ستائر بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 234,
+    "url": "/page/تنظيف-الستائر-بالبخار-بالرياض",
+    "targetKeyword": "تنظيف الستائر بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 398,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 235,
+    "url": "/page/شركة-تنظيف-مطابخ-بالرياض",
+    "targetKeyword": "شركة تنظيف مطابخ بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 388,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 236,
+    "url": "/page/تنظيف-مطابخ-بالرياض",
+    "targetKeyword": "تنظيف مطابخ بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 374,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 237,
+    "url": "/page/تنظيف-مطبخ-بالرياض",
+    "targetKeyword": "تنظيف مطبخ بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 379,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 238,
+    "url": "/page/أفضل-شركة-تنظيف-مطابخ-بالرياض",
+    "targetKeyword": "أفضل شركة تنظيف مطابخ بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 397,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 239,
+    "url": "/page/تنظيف-المطابخ-بالبخار-بالرياض",
+    "targetKeyword": "تنظيف المطابخ بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 388,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 240,
+    "url": "/page/تنظيف-دهون-المطابخ-بالرياض",
+    "targetKeyword": "تنظيف دهون المطابخ بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 388,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 241,
+    "url": "/page/إزالة-الدهون-من-المطابخ-بالرياض",
+    "targetKeyword": "إزالة الدهون من المطابخ بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 397,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 242,
+    "url": "/page/تنظيف-شفاط-المطبخ-بالرياض",
+    "targetKeyword": "تنظيف شفاط المطبخ بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 388,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 243,
+    "url": "/page/تنظيف-حمامات-بالرياض",
+    "targetKeyword": "تنظيف حمامات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 374,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 244,
+    "url": "/page/شركة-تنظيف-حمامات-بالرياض",
+    "targetKeyword": "شركة تنظيف حمامات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 383,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 245,
+    "url": "/page/تنظيف-الحمام-بالرياض",
+    "targetKeyword": "تنظيف الحمام بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 378,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 246,
+    "url": "/page/تنظيف-وتعقيم-الحمامات-بالرياض",
+    "targetKeyword": "تنظيف وتعقيم الحمامات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 388,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 247,
+    "url": "/page/تنظيف-سيراميك-بالرياض",
+    "targetKeyword": "تنظيف سيراميك بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 379,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 248,
+    "url": "/page/شركة-تنظيف-سيراميك-بالرياض",
+    "targetKeyword": "شركة تنظيف سيراميك بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 387,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 249,
+    "url": "/page/تنظيف-أرضيات-بالرياض",
+    "targetKeyword": "تنظيف أرضيات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 378,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 250,
+    "url": "/page/شركة-تنظيف-أرضيات-بالرياض",
+    "targetKeyword": "شركة تنظيف أرضيات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 388,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 251,
+    "url": "/page/جلي-بلاط-بالرياض",
+    "targetKeyword": "جلي بلاط بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 374,
+    "primaryParentCluster": "/services/jaly-rakham-alryad",
+    "decision": "Remap Canonical to /services/jaly-rakham-alryad"
+  },
+  {
+    "id": 252,
+    "url": "/page/شركة-جلي-بلاط-بالرياض",
+    "targetKeyword": "شركة جلي بلاط بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 383,
+    "primaryParentCluster": "/services/jaly-rakham-alryad",
+    "decision": "Remap Canonical to /services/jaly-rakham-alryad"
+  },
+  {
+    "id": 253,
+    "url": "/page/جلي-وتلميع-البلاط-بالرياض",
+    "targetKeyword": "جلي وتلميع البلاط بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 387,
+    "primaryParentCluster": "/services/jaly-rakham-alryad",
+    "decision": "Remap Canonical to /services/jaly-rakham-alryad"
+  },
+  {
+    "id": 254,
+    "url": "/page/تلميع-بلاط-بالرياض",
+    "targetKeyword": "تلميع بلاط بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 379,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 255,
+    "url": "/page/تنظيف-رخام-بالرياض",
+    "targetKeyword": "تنظيف رخام بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 379,
+    "primaryParentCluster": "/services/jaly-rakham-alryad",
+    "decision": "Remap Canonical to /services/jaly-rakham-alryad"
+  },
+  {
+    "id": 256,
+    "url": "/page/شركة-تنظيف-رخام-بالرياض",
+    "targetKeyword": "شركة تنظيف رخام بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 383,
+    "primaryParentCluster": "/services/jaly-rakham-alryad",
+    "decision": "Remap Canonical to /services/jaly-rakham-alryad"
+  },
+  {
+    "id": 257,
+    "url": "/page/جلي-رخام-بالرياض",
+    "targetKeyword": "جلي رخام بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 379,
+    "primaryParentCluster": "/services/jaly-rakham-alryad",
+    "decision": "Remap Canonical to /services/jaly-rakham-alryad"
+  },
+  {
+    "id": 258,
+    "url": "/page/شركة-جلي-رخام-بالرياض",
+    "targetKeyword": "شركة جلي رخام بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 388,
+    "primaryParentCluster": "/services/jaly-rakham-alryad",
+    "decision": "Remap Canonical to /services/jaly-rakham-alryad"
+  },
+  {
+    "id": 259,
+    "url": "/page/تلميع-رخام-بالرياض",
+    "targetKeyword": "تلميع رخام بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 378,
+    "primaryParentCluster": "/services/jaly-rakham-alryad",
+    "decision": "Remap Canonical to /services/jaly-rakham-alryad"
+  },
+  {
+    "id": 260,
+    "url": "/page/شركة-تلميع-رخام-بالرياض",
+    "targetKeyword": "شركة تلميع رخام بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 388,
+    "primaryParentCluster": "/services/jaly-rakham-alryad",
+    "decision": "Remap Canonical to /services/jaly-rakham-alryad"
+  },
+  {
+    "id": 261,
+    "url": "/page/تنظيف-باركيه-بالرياض",
+    "targetKeyword": "تنظيف باركيه بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 379,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 262,
+    "url": "/page/تنظيف-أرضيات-رخام-بالرياض",
+    "targetKeyword": "تنظيف أرضيات رخام بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 387,
+    "primaryParentCluster": "/services/jaly-rakham-alryad",
+    "decision": "Remap Canonical to /services/jaly-rakham-alryad"
+  },
+  {
+    "id": 263,
+    "url": "/page/تنظيف-أرضيات-السيراميك-بالرياض",
+    "targetKeyword": "تنظيف أرضيات السيراميك بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 388,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 264,
+    "url": "/page/تلميع-الأرضيات-بالرياض",
+    "targetKeyword": "تلميع الأرضيات بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 374,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 265,
+    "url": "/page/تنظيف-خزانات-بالرياض",
+    "targetKeyword": "تنظيف خزانات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 383,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 266,
+    "url": "/page/شركات-تنظيف-خزانات-بالرياض",
+    "targetKeyword": "شركات تنظيف خزانات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 396,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 267,
+    "url": "/page/أفضل-شركة-تنظيف-خزانات-بالرياض",
+    "targetKeyword": "أفضل شركة تنظيف خزانات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 406,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 268,
+    "url": "/page/غسيل-خزانات-بالرياض",
+    "targetKeyword": "غسيل خزانات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 388,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 269,
+    "url": "/page/شركة-غسيل-خزانات-بالرياض",
+    "targetKeyword": "شركة غسيل خزانات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 397,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 270,
+    "url": "/page/تنظيف-خزانات-المياه-بالرياض",
+    "targetKeyword": "تنظيف خزانات المياه بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 392,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 271,
+    "url": "/page/تعقيم-خزانات-المياه-بالرياض",
+    "targetKeyword": "تعقيم خزانات المياه بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 392,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 272,
+    "url": "/page/شركة-تعقيم-خزانات-بالرياض",
+    "targetKeyword": "شركة تعقيم خزانات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 396,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 273,
+    "url": "/page/تنظيف-الخزان-الأرضي-بالرياض",
+    "targetKeyword": "تنظيف الخزان الأرضي بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 397,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 274,
+    "url": "/page/تنظيف-الخزان-العلوي-بالرياض",
+    "targetKeyword": "تنظيف الخزان العلوي بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 396,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 275,
+    "url": "/page/تنظيف-خزانات-المنازل-بالرياض",
+    "targetKeyword": "تنظيف خزانات المنازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 386,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  },
+  {
+    "id": 276,
+    "url": "/page/تنظيف-خزانات-الفلل-بالرياض",
+    "targetKeyword": "تنظيف خزانات الفلل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 277,
+    "url": "/page/شركة-تنظيف-مكيفات-بالرياض",
+    "targetKeyword": "شركة تنظيف مكيفات بالرياض",
+    "intent": "Informational",
+    "wordCount": 396,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 278,
+    "url": "/page/تنظيف-مكيفات-بالرياض",
+    "targetKeyword": "تنظيف مكيفات بالرياض",
+    "intent": "Informational",
+    "wordCount": 387,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 279,
+    "url": "/page/شركات-تنظيف-مكيفات-بالرياض",
+    "targetKeyword": "شركات تنظيف مكيفات بالرياض",
+    "intent": "Informational",
+    "wordCount": 397,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 280,
+    "url": "/page/غسيل-مكيفات-بالرياض",
+    "targetKeyword": "غسيل مكيفات بالرياض",
+    "intent": "Informational",
+    "wordCount": 383,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 281,
+    "url": "/page/شركة-غسيل-مكيفات-بالرياض",
+    "targetKeyword": "شركة غسيل مكيفات بالرياض",
+    "intent": "Informational",
+    "wordCount": 397,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 282,
+    "url": "/page/تنظيف-مكيف-سبليت-بالرياض",
+    "targetKeyword": "تنظيف مكيف سبليت بالرياض",
+    "intent": "Informational",
+    "wordCount": 392,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 283,
+    "url": "/page/غسيل-مكيفات-سبليت-بالرياض",
+    "targetKeyword": "غسيل مكيفات سبليت بالرياض",
+    "intent": "Informational",
+    "wordCount": 397,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 284,
+    "url": "/page/شركة-تنظيف-مكيفات-سبليت-بالرياض",
+    "targetKeyword": "شركة تنظيف مكيفات سبليت بالرياض",
+    "intent": "Informational",
+    "wordCount": 406,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 285,
+    "url": "/page/تنظيف-مكيفات-الشباك-بالرياض",
+    "targetKeyword": "تنظيف مكيفات الشباك بالرياض",
+    "intent": "Informational",
+    "wordCount": 397,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 286,
+    "url": "/page/غسيل-مكيفات-الشباك-بالرياض",
+    "targetKeyword": "غسيل مكيفات الشباك بالرياض",
+    "intent": "Informational",
+    "wordCount": 397,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 287,
+    "url": "/page/تنظيف-مكيف-مركزي-بالرياض",
+    "targetKeyword": "تنظيف مكيف مركزي بالرياض",
+    "intent": "Informational",
+    "wordCount": 397,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 288,
+    "url": "/page/تنظيف-المكيف-من-الغبار-بالرياض",
+    "targetKeyword": "تنظيف المكيف من الغبار بالرياض",
+    "intent": "Informational",
+    "wordCount": 406,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 289,
+    "url": "/page/تنظيف-فلاتر-المكيف-بالرياض",
+    "targetKeyword": "تنظيف فلاتر المكيف بالرياض",
+    "intent": "Informational",
+    "wordCount": 392,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 290,
+    "url": "/page/شركة-تنظيف-مكيفات-منزلية-بالرياض",
+    "targetKeyword": "شركة تنظيف مكيفات منزلية بالرياض",
+    "intent": "Informational",
+    "wordCount": 395,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 291,
+    "url": "/page/تنظيف-وتعقيم-المكيفات-بالرياض",
+    "targetKeyword": "تنظيف وتعقيم المكيفات بالرياض",
+    "intent": "Informational",
+    "wordCount": 397,
+    "primaryParentCluster": "/services/tanzeef-mokeyafat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-mokeyafat-alryad"
+  },
+  {
+    "id": 292,
+    "url": "/page/تعقيم-بالرياض",
+    "targetKeyword": "تعقيم بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 370,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 293,
+    "url": "/page/شركات-تعقيم-بالرياض",
+    "targetKeyword": "شركات تعقيم بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 379,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 294,
+    "url": "/page/تعقيم-المنازل-بالرياض",
+    "targetKeyword": "تعقيم المنازل بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 377,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 295,
+    "url": "/page/شركة-تعقيم-منازل-بالرياض",
+    "targetKeyword": "شركة تعقيم منازل بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 386,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 296,
+    "url": "/page/تعقيم-الفلل-بالرياض",
+    "targetKeyword": "تعقيم الفلل بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 381,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 297,
+    "url": "/page/تعقيم-الشقق-بالرياض",
+    "targetKeyword": "تعقيم الشقق بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 377,
+    "primaryParentCluster": "/services/tanzeef-shaqaq-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-shaqaq-alryad"
+  },
+  {
+    "id": 298,
+    "url": "/page/تعقيم-المكاتب-بالرياض",
+    "targetKeyword": "تعقيم المكاتب بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 379,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 299,
+    "url": "/page/تنظيف-بالبخار-بالرياض",
+    "targetKeyword": "تنظيف بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 379,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 300,
+    "url": "/page/شركة-تنظيف-بالبخار-بالرياض",
+    "targetKeyword": "شركة تنظيف بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 388,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 301,
+    "url": "/page/تنظيف-المنزل-بالبخار-بالرياض",
+    "targetKeyword": "تنظيف المنزل بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 386,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 302,
+    "url": "/page/تنظيف-الأثاث-بالبخار-بالرياض",
+    "targetKeyword": "تنظيف الأثاث بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 394,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 303,
+    "url": "/page/تنظيف-الكنب-بالبخار-بالرياض",
+    "targetKeyword": "تنظيف الكنب بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 399,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 304,
+    "url": "/page/تنظيف-السجاد-بالبخار-بالرياض",
+    "targetKeyword": "تنظيف السجاد بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 376,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 305,
+    "url": "/page/تنظيف-المجالس-بالبخار-بالرياض",
+    "targetKeyword": "تنظيف المجالس بالبخار بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 394,
+    "primaryParentCluster": "/services/gaseel-majalis-bukhar-alryad",
+    "decision": "Remap Canonical to /services/gaseel-majalis-bukhar-alryad"
+  },
+  {
+    "id": 306,
+    "url": "/page/تنظيف-بعد-البناء-بالرياض",
+    "targetKeyword": "تنظيف بعد البناء بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 387,
+    "primaryParentCluster": "/services/tanzeef-bad-altashteeb-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-bad-altashteeb-alryad"
+  },
+  {
+    "id": 307,
+    "url": "/page/شركة-تنظيف-بعد-البناء-بالرياض",
+    "targetKeyword": "شركة تنظيف بعد البناء بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 396,
+    "primaryParentCluster": "/services/tanzeef-bad-altashteeb-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-bad-altashteeb-alryad"
+  },
+  {
+    "id": 308,
+    "url": "/page/تنظيف-بعد-التشطيب-بالرياض",
+    "targetKeyword": "تنظيف بعد التشطيب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 383,
+    "primaryParentCluster": "/services/tanzeef-bad-altashteeb-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-bad-altashteeb-alryad"
+  },
+  {
+    "id": 309,
+    "url": "/page/شركة-تنظيف-بعد-التشطيب-بالرياض",
+    "targetKeyword": "شركة تنظيف بعد التشطيب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 397,
+    "primaryParentCluster": "/services/tanzeef-bad-altashteeb-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-bad-altashteeb-alryad"
+  },
+  {
+    "id": 310,
+    "url": "/page/تنظيف-شقق-بعد-التشطيب-بالرياض",
+    "targetKeyword": "تنظيف شقق بعد التشطيب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 400,
+    "primaryParentCluster": "/services/tanzeef-shaqaq-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-shaqaq-alryad"
+  },
+  {
+    "id": 311,
+    "url": "/page/تنظيف-فلل-بعد-التشطيب-بالرياض",
+    "targetKeyword": "تنظيف فلل بعد التشطيب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 400,
+    "primaryParentCluster": "/services/tanzeef-filal-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-filal-alryad (Consolidate Authority)"
+  },
+  {
+    "id": 312,
+    "url": "/page/تنظيف-غبار-البناء-بالرياض",
+    "targetKeyword": "تنظيف غبار البناء بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 388,
+    "primaryParentCluster": "/services/tanzeef-bad-altashteeb-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-bad-altashteeb-alryad"
+  },
+  {
+    "id": 313,
+    "url": "/page/إزالة-غبار-البناء-بالرياض",
+    "targetKeyword": "إزالة غبار البناء بالرياض",
+    "intent": "Commercial / Local",
+    "wordCount": 388,
+    "primaryParentCluster": "/services/tanzeef-bad-altashteeb-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-bad-altashteeb-alryad"
+  },
+  {
+    "id": 314,
+    "url": "/page/تنظيف-بعد-المقاول-بالرياض",
+    "targetKeyword": "تنظيف بعد المقاول بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 383,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 315,
+    "url": "/page/تنظيف-بعد-الدهان-بالرياض",
+    "targetKeyword": "تنظيف بعد الدهان بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 383,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 316,
+    "url": "/page/تنظيف-بعد-التجديد-بالرياض",
+    "targetKeyword": "تنظيف بعد التجديد بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 383,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 317,
+    "url": "/page/تنظيف-قبل-المناسبات-بالرياض",
+    "targetKeyword": "تنظيف قبل المناسبات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 391,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 318,
+    "url": "/page/تنظيف-بعد-المناسبات-بالرياض",
+    "targetKeyword": "تنظيف بعد المناسبات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 390,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 319,
+    "url": "/page/تنظيف-بعد-الحفلات-بالرياض",
+    "targetKeyword": "تنظيف بعد الحفلات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 320,
+    "url": "/page/تنظيف-المنزل-بعد-العزائم-بالرياض",
+    "targetKeyword": "تنظيف المنزل بعد العزائم بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 400,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 321,
+    "url": "/page/تنظيف-مكاتب-بالرياض",
+    "targetKeyword": "تنظيف مكاتب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 375,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 322,
+    "url": "/page/شركات-تنظيف-مكاتب-بالرياض",
+    "targetKeyword": "شركات تنظيف مكاتب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 323,
+    "url": "/page/أفضل-شركة-تنظيف-مكاتب-بالرياض",
+    "targetKeyword": "أفضل شركة تنظيف مكاتب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 394,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 324,
+    "url": "/page/تنظيف-شركات-بالرياض",
+    "targetKeyword": "تنظيف شركات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 376,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 325,
+    "url": "/page/شركة-تنظيف-شركات-بالرياض",
+    "targetKeyword": "شركة تنظيف شركات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 326,
+    "url": "/page/تنظيف-منشآت-بالرياض",
+    "targetKeyword": "تنظيف منشآت بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 376,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 327,
+    "url": "/page/شركة-تنظيف-منشآت-بالرياض",
+    "targetKeyword": "شركة تنظيف منشآت بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 328,
+    "url": "/page/تنظيف-تجاري-بالرياض",
+    "targetKeyword": "تنظيف تجاري بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 376,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 329,
+    "url": "/page/شركة-تنظيف-تجاري-بالرياض",
+    "targetKeyword": "شركة تنظيف تجاري بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 330,
+    "url": "/page/تنظيف-محلات-بالرياض",
+    "targetKeyword": "تنظيف محلات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 376,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 331,
+    "url": "/page/تنظيف-مطاعم-بالرياض",
+    "targetKeyword": "تنظيف مطاعم بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 371,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 332,
+    "url": "/page/شركة-تنظيف-مطاعم-بالرياض",
+    "targetKeyword": "شركة تنظيف مطاعم بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 380,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 333,
+    "url": "/page/تنظيف-كافيهات-بالرياض",
+    "targetKeyword": "تنظيف كافيهات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 376,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 334,
+    "url": "/page/شركة-تنظيف-كافيهات-بالرياض",
+    "targetKeyword": "شركة تنظيف كافيهات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 335,
+    "url": "/page/تنظيف-مستودعات-بالرياض",
+    "targetKeyword": "تنظيف مستودعات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 376,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 336,
+    "url": "/page/شركة-تنظيف-مستودعات-بالرياض",
+    "targetKeyword": "شركة تنظيف مستودعات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 337,
+    "url": "/page/تنظيف-مكاتب-الشركات-بالرياض",
+    "targetKeyword": "تنظيف مكاتب الشركات بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 338,
+    "url": "/page/شركة-نظافة-للمكاتب-بالرياض",
+    "targetKeyword": "شركة نظافة للمكاتب بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 339,
+    "url": "/page/تنظيف-شمال-الرياض",
+    "targetKeyword": "تنظيف شمال الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 370,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 340,
+    "url": "/page/شركات-تنظيف-شمال-الرياض",
+    "targetKeyword": "شركات تنظيف شمال الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 380,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 341,
+    "url": "/page/تنظيف-شرق-الرياض",
+    "targetKeyword": "تنظيف شرق الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 375,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 342,
+    "url": "/page/شركات-تنظيف-شرق-الرياض",
+    "targetKeyword": "شركات تنظيف شرق الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 343,
+    "url": "/page/تنظيف-غرب-الرياض",
+    "targetKeyword": "تنظيف غرب الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 370,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 344,
+    "url": "/page/شركات-تنظيف-غرب-الرياض",
+    "targetKeyword": "شركات تنظيف غرب الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 385,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 345,
+    "url": "/page/شركة-تنظيف-جنوب-الرياض",
+    "targetKeyword": "شركة تنظيف جنوب الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 346,
+    "url": "/page/تنظيف-جنوب-الرياض",
+    "targetKeyword": "تنظيف جنوب الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 375,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 347,
+    "url": "/page/شركات-تنظيف-جنوب-الرياض",
+    "targetKeyword": "شركات تنظيف جنوب الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 380,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 348,
+    "url": "/page/شركة-تنظيف-وسط-الرياض",
+    "targetKeyword": "شركة تنظيف وسط الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 379,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 349,
+    "url": "/page/تنظيف-وسط-الرياض",
+    "targetKeyword": "تنظيف وسط الرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 370,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 350,
+    "url": "/page/شركة-تنظيف-العليا",
+    "targetKeyword": "شركة تنظيف العليا",
+    "intent": "Transactional / Local Service",
+    "wordCount": 365,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 351,
+    "url": "/page/شركة-تنظيف-الملقا",
+    "targetKeyword": "شركة تنظيف الملقا",
+    "intent": "Transactional / Local Service",
+    "wordCount": 360,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 352,
+    "url": "/page/شركة-تنظيف-النرجس",
+    "targetKeyword": "شركة تنظيف النرجس",
+    "intent": "Transactional / Local Service",
+    "wordCount": 364,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 353,
+    "url": "/page/شركة-تنظيف-الياسمين",
+    "targetKeyword": "شركة تنظيف الياسمين",
+    "intent": "Transactional / Local Service",
+    "wordCount": 367,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 354,
+    "url": "/page/شركة-تنظيف-حطين",
+    "targetKeyword": "شركة تنظيف حطين",
+    "intent": "Transactional / Local Service",
+    "wordCount": 367,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 355,
+    "url": "/page/شركة-تنظيف-الصحافة",
+    "targetKeyword": "شركة تنظيف الصحافة",
+    "intent": "Transactional / Local Service",
+    "wordCount": 364,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 356,
+    "url": "/page/شركة-تنظيف-الروضة",
+    "targetKeyword": "شركة تنظيف الروضة",
+    "intent": "Transactional / Local Service",
+    "wordCount": 360,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 357,
+    "url": "/page/شركة-تنظيف-قرطبة",
+    "targetKeyword": "شركة تنظيف قرطبة",
+    "intent": "Transactional / Local Service",
+    "wordCount": 367,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 358,
+    "url": "/page/شركة-تنظيف-المونسية",
+    "targetKeyword": "شركة تنظيف المونسية",
+    "intent": "Transactional / Local Service",
+    "wordCount": 364,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 359,
+    "url": "/page/شركة-تنظيف-السليمانية",
+    "targetKeyword": "شركة تنظيف السليمانية",
+    "intent": "Transactional / Local Service",
+    "wordCount": 364,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 360,
+    "url": "/page/شركة-تنظيف-العقيق",
+    "targetKeyword": "شركة تنظيف العقيق",
+    "intent": "Transactional / Local Service",
+    "wordCount": 367,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 361,
+    "url": "/page/شركة-تنظيف-النخيل",
+    "targetKeyword": "شركة تنظيف النخيل",
+    "intent": "Transactional / Local Service",
+    "wordCount": 367,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 362,
+    "url": "/page/شركة-تنظيف-الشفا",
+    "targetKeyword": "شركة تنظيف الشفا",
+    "intent": "Transactional / Local Service",
+    "wordCount": 367,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 363,
+    "url": "/page/شركة-تنظيف-العزيزية",
+    "targetKeyword": "شركة تنظيف العزيزية",
+    "intent": "Transactional / Local Service",
+    "wordCount": 360,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 364,
+    "url": "/page/شركة-تنظيف-السويدي",
+    "targetKeyword": "شركة تنظيف السويدي",
+    "intent": "Transactional / Local Service",
+    "wordCount": 367,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 365,
+    "url": "/page/شركة-تنظيف-لبن",
+    "targetKeyword": "شركة تنظيف لبن",
+    "intent": "Transactional / Local Service",
+    "wordCount": 367,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 366,
+    "url": "/page/شركة-تنظيف-ظهرة-لبن",
+    "targetKeyword": "شركة تنظيف ظهرة لبن",
+    "intent": "Transactional / Local Service",
+    "wordCount": 374,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 367,
+    "url": "/page/شركة-تنظيف-الرمال",
+    "targetKeyword": "شركة تنظيف الرمال",
+    "intent": "Transactional / Local Service",
+    "wordCount": 365,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 368,
+    "url": "/page/شركة-تنظيف-غرناطة",
+    "targetKeyword": "شركة تنظيف غرناطة",
+    "intent": "Transactional / Local Service",
+    "wordCount": 360,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 369,
+    "url": "/page/شركة-تنظيف-اشبيلية",
+    "targetKeyword": "شركة تنظيف اشبيلية",
+    "intent": "Transactional / Local Service",
+    "wordCount": 367,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 370,
+    "url": "/page/شركة-تنظيف-اليرموك",
+    "targetKeyword": "شركة تنظيف اليرموك",
+    "intent": "Transactional / Local Service",
+    "wordCount": 367,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 371,
+    "url": "/page/شركة-تنظيف-القادسية",
+    "targetKeyword": "شركة تنظيف القادسية",
+    "intent": "Transactional / Local Service",
+    "wordCount": 367,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 372,
+    "url": "/page/شركة-تنظيف-الروابي",
+    "targetKeyword": "شركة تنظيف الروابي",
+    "intent": "Transactional / Local Service",
+    "wordCount": 365,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 373,
+    "url": "/page/شركة-تنظيف-النسيم-بالرياض",
+    "targetKeyword": "شركة تنظيف النسيم بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 374,
+    "url": "/page/شركة-تنظيف-الفيحاء-بالرياض",
+    "targetKeyword": "شركة تنظيف الفيحاء بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 384,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 375,
+    "url": "/page/شركة-تنظيف-حي-الياسمين-بالرياض",
+    "targetKeyword": "شركة تنظيف حي الياسمين بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 393,
+    "primaryParentCluster": "/services",
+    "decision": "Keep & Enhance"
+  },
+  {
+    "id": 376,
+    "url": "/page/شركة-تنظيف-خزانات-المياه-بالرياض",
+    "targetKeyword": "شركة تنظيف خزانات المياه بالرياض",
+    "intent": "Transactional / Local Service",
+    "wordCount": 405,
+    "primaryParentCluster": "/services/tanzeef-khazanat-alryad",
+    "decision": "Remap Canonical to /services/tanzeef-khazanat-alryad"
+  }
+]

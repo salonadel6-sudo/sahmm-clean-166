@@ -1,0 +1,1 @@
+{"version":3,"file":"contractLedgerResponse.d.ts","sourceRoot":"","sources":["../../../src/generated/types/contractLedgerResponse.ts"],"names":[],"mappings":"AAAA;;;;;;GAMG;AACH,OAAO,KAAK,EAAE,4BAA4B,EAAE,MAAM,gCAAgC,CAAC;AACnF,OAAO,KAAK,EAAE,iBAAiB,EAAE,MAAM,qBAAqB,CAAC;AAE7D,MAAM,WAAW,sBAAsB;IACrC,OAAO,EAAE,iBAAiB,EAAE,CAAC;IAC7B,MAAM,EAAE,4BAA4B,CAAC;CACtC"}

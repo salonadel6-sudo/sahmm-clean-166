@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title>sabaik.net</title>
+  <rect width="160" height="160" rx="42" fill="#f0b429"/>
+  <circle cx="80" cy="80" r="45" fill="#fffaf0"/>
+  <path d="M55 83c12-13 21-20 32-20 8 0 14 3 20 10" fill="none" stroke="#17324d" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="62" cy="65" r="7" fill="#17324d"/>
+  <circle cx="98" cy="97" r="7" fill="#17324d"/>
+</svg>

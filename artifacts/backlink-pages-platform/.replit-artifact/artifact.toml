@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/backlink-pages-platform/"
+title = "منصة صفحات الروابط"
+description = "منصة مستقلة تعرض صفحات الموقع الموجودة في خريطة الموقع على هيئة بطاقات وصفحات ثابتة، مع روابط خارجية مصورة للمواقع المحددة."
+version = "1.0.0"
+id = "artifacts/backlink-pages-platform"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/backlink-pages-platform/" ]
+localPort = 21769
+
+[services.development]
+run = "pnpm --filter @workspace/backlink-pages-platform run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/backlink-pages-platform", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/backlink-pages-platform/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21769"
+BASE_PATH = "/backlink-pages-platform/"

@@ -1,0 +1,96 @@
+[
+  {
+    "matches": ["حشرات", "مبيدات", "إبادة", "ابادة", "بق"],
+    "primaryImage": "/images/service-pest.jpg",
+    "supportImages": [
+      "/images/seo-gallery/pest-inspection-kitchen.jpg",
+      "/images/seo-gallery/pest-prevention-home.jpg"
+    ]
+  },
+  {
+    "matches": ["عزل", "عوازل", "فوم"],
+    "primaryImage": "/images/seo-gallery/insulation-foam-work.jpg",
+    "supportImages": [
+      "/images/seo-gallery/insulation-roof-check.jpg",
+      "/images/seo-gallery/insulation-water-tank.jpg"
+    ],
+    "variants": [
+      {
+        "matches": ["أسطح", "اسطح", "سطح"],
+        "supportImages": [
+          "/images/seo-gallery/insulation-foam-work.jpg",
+          "/images/seo-gallery/insulation-water-tank.jpg"
+        ]
+      },
+      {
+        "matches": ["خزانات", "خزان"],
+        "supportImages": [
+          "/images/seo-gallery/insulation-roof-check.jpg",
+          "/images/seo-gallery/insulation-foam-work.jpg"
+        ]
+      },
+      {
+        "matches": ["حراري", "فوم"],
+        "supportImages": [
+          "/images/seo-gallery/insulation-roof-check.jpg",
+          "/images/seo-gallery/insulation-water-tank.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "matches": ["خدمات السلامة", "ملف السلامة", "شهادة سلامة", "التقرير الفني", "أنظمة السلامة", "أدوات الحماية"],
+    "primaryImage": "/images/service-safety.jpg",
+    "supportImages": []
+  },
+  {
+    "matches": ["خزانات", "خزان"],
+    "primaryImage": "/images/service-tanks.jpg",
+    "supportImages": ["/images/service-pool.jpg", "/images/service-facilities.jpg"]
+  },
+  {
+    "matches": ["مكيف", "مكيفات", "سبليت", "سبلت", "فلاتر"],
+    "primaryImage": "/images/service-ac.jpg",
+    "supportImages": ["/images/service-facilities.jpg", "/images/service-tanks.jpg"]
+  },
+  {
+    "matches": ["مجالس", "كنب", "مفروشات", "سجاد", "موكيت", "ستائر", "بخار"],
+    "primaryImage": "/images/service-majlis.jpg",
+    "supportImages": ["/images/service-villas.jpg", "/images/service-apartments.jpg"]
+  },
+  {
+    "matches": ["رخام", "سيراميك", "بلاط", "أرضيات", "ارضيات"],
+    "primaryImage": "/images/service-marble.jpg",
+    "supportImages": ["/images/service-postconstruction.jpg", "/images/service-facilities.jpg"]
+  },
+  {
+    "matches": ["بناء", "تشطيب", "دهان", "تجديد"],
+    "primaryImage": "/images/service-postconstruction.jpg",
+    "supportImages": ["/images/service-facades.jpg", "/images/service-apartments.jpg"]
+  },
+  {
+    "matches": ["مكتب", "مكاتب", "منشأة", "منشآت", "محل", "مطعم", "مدرسة", "واجهة", "واجهات"],
+    "primaryImage": "/images/service-facades.jpg",
+    "supportImages": ["/images/service-facilities.jpg", "/images/service-apartments.jpg"]
+  },
+  {
+    "matches": ["فيلا", "فلل", "قصر", "قصور"],
+    "primaryImage": "/images/service-villas.jpg",
+    "supportImages": ["/images/service-palace.jpg", "/images/service-apartments.jpg"]
+  },
+  {
+    "matches": ["نقل", "انتقال", "عفش", "أثاث"],
+    "primaryImage": "/images/service-move.jpg",
+    "supportImages": ["/images/service-apartments.jpg", "/images/service-villas.jpg"]
+  },
+  {
+    "matches": ["مسابح", "مسبح"],
+    "primaryImage": "/images/service-pool.jpg",
+    "supportImages": ["/images/service-villas.jpg", "/images/service-facilities.jpg"]
+  },
+  {
+    "matches": [],
+    "primaryImage": "/images/service-apartments.jpg",
+    "supportImages": ["/images/service-villas.jpg", "/images/service-facilities.jpg"]
+  }
+]

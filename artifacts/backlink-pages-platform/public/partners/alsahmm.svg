@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title>alsahmm.com</title>
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0d9488"/>
+      <stop offset="1" stop-color="#164e63"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="42" fill="url(#a)"/>
+  <path d="M38 111 80 43l42 68h-21L80 77l-21 34H38Z" fill="#f7f2e8"/>
+  <path d="M56 111h48" stroke="#f6c453" stroke-width="8" stroke-linecap="round"/>
+</svg>
