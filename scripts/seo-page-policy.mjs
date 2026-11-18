@@ -21,6 +21,8 @@ export const SEO_PAGE_MIN_CONTENT_CHARS = policy.minimumVisibleContentCharacters
 export const SEO_PAGE_REDIRECTS = [
   { fromSlug: "شركة-تنظيف-بالرياض", toPath: "/", retireSource: true },
   { fromSlug: "افضل-شركة-تنظيف-بالرياض", toPath: "/page/أفضل-شركة-تنظيف-بالرياض", retireSource: true },
+  { fromSlug: "اسعار-شركة-تنظيف-بالرياض", toPath: "/page/أسعار-شركات-تنظيف-المنازل-بالرياض", retireSource: true },
+  { fromSlug: "شركة-تنظيف-مكيفات-بالرياض-السهم-كلين", toPath: "/page/شركة-تنظيف-مكيفات-بالرياض", retireSource: true },
   { fromSlug: "شركة-نقل-العفش-داخل-الرياض", toPath: "/page/تنظيف-المنازل-قبل-نقل-العفش-بالرياض", retireSource: false },
   { fromSlug: "شركات-نقل-العفش-بالرياض", toPath: "/page/تنظيف-وتعقيم-المنازل-بعد-نقل-الأثاث-بالرياض", retireSource: false },
   { fromSlug: "شركة-نقل-عفش-بالخرج", toPath: "/page/تنظيف-منازل-وفلل-قبل-وبعد-نقل-الأثاث-بالخرج", retireSource: false },

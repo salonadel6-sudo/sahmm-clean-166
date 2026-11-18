@@ -29,8 +29,12 @@ try {
         continue;
       }
       const rows = resolve.all(fromSlug);
-      if (rows.length !== 1) {
-        throw new Error(`Expected exactly one SEO page for "${fromSlug}", found ${rows.length}. No changes were committed.`);
+      if (rows.length > 1) {
+        throw new Error(`Expected at most one SEO page for "${fromSlug}", found ${rows.length}. No changes were committed.`);
+      }
+      if (rows.length === 0) {
+        changes.push({ slug: fromSlug, deactivated: false, sourceAlreadyConsolidated: true });
+        continue;
       }
       const result = retire.run(fromSlug);
       changes.push({ slug: fromSlug, deactivated: result.changes > 0 });
