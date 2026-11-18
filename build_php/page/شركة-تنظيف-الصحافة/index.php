@@ -1,0 +1,1 @@
+<?php require_once rtrim((string)($_SERVER['DOCUMENT_ROOT'] ?? ''), '/') . '/site-origin-runtime.php'; cleanflowServeStaticHtml(__DIR__ . '/index.html');

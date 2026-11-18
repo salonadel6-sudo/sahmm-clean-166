@@ -26,6 +26,7 @@ import {
   FAQ_CANONICAL_PATH,
   LEGACY_PACKAGE_ROUTE_SLUGS,
 } from "./package-route-policy.mjs";
+import { priority36Keywords } from "./data/priority-36-keywords.mjs";
 import { resolveContentServiceFamily } from "../artifacts/sabaik-almasa/src/lib/contentServiceFamily.mjs";
 import { resolvePostImage } from "./post-image-fallback.mjs";
 import {
@@ -866,7 +867,7 @@ function generateFullHomepageStaticContent() {
         <p style="font-size:16px;color:#cbd5e0;margin:0">نوضح نطاق الخدمة وننسق التفاصيل المناسبة لكل موقع قبل التنفيذ</p>
       </div>
       <div style="display:flex;justify-content:center;margin:0 0 24px">
-        <img src="/images/why-choose-us.png" alt="لماذا تختارنا لخدمات التنظيف بالرياض؟" width="1024" height="1024" loading="lazy" style="display:block;width:100%;max-width:1024px;height:auto;object-fit:contain;background:#fff;border-radius:24px;margin:0 auto" />
+        <img src="/images/seo/أفضل-شركة-تنظيف-بالرياض.jpg" alt="لماذا تختارنا لخدمات التنظيف بالرياض؟" width="1024" height="1024" loading="lazy" style="display:block;width:100%;max-width:1024px;height:auto;object-fit:contain;background:#fff;border-radius:24px;margin:0 auto" />
       </div>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px">
         <div style="padding:16px;background:rgba(255,255,255,0.08);border-radius:12px">
@@ -1067,6 +1068,12 @@ const posts = db.prepare(`
 
 console.log(`\n📝 إنشاء ${posts.length} صفحة مقالات...`);
 
+const postsByTitle = new Map(posts.map((post) => [post.title, post]));
+const priorityTargetPosts = priority36Keywords.map((keyword) => postsByTitle.get(keyword)).filter(Boolean);
+if (priorityTargetPosts.length !== priority36Keywords.length) {
+  throw new Error(`Expected ${priority36Keywords.length} priority articles in the blog listing; found ${priorityTargetPosts.length}.`);
+}
+
 for (const post of posts) {
   const slug = post.slug || post.seo_slug;
   if (!slug) continue;
@@ -1150,8 +1157,8 @@ console.log(`   ✅ ${posts.length} مقالة`);
   const blogCanonical  = `${SITE_URL}/blog`;
   const blogTitle      = "مدونة تنظيف منازل الرياض | نصائح للعناية بالمنزل";
   const blogDesc       = "مدونة تنظيف منازل الرياض تقدم نصائح عملية للعناية بالمنزل وتنظيف المجالس والسجاد والمطبخ واختيار الطرق المناسبة لكل مساحة.";
-  const blogOgImage    = absoluteImg(posts[0]
-    ? resolvePostImage(posts[0], postUploadDirectories, "cover_image")
+  const blogOgImage    = absoluteImg(priorityTargetPosts[0]
+    ? resolvePostImage(priorityTargetPosts[0], postUploadDirectories, "cover_image")
     : `${SITE_URL}/images/service-apartments.jpg`);
 
   const blogSchema = {
@@ -1169,7 +1176,8 @@ console.log(`   ✅ ${posts.length} مقالة`);
     { name: "المدونة",  url: blogCanonical },
   ];
 
-  const postCardsHtml = posts.slice(0, 30).map(post => {
+  const listingPosts = [...priorityTargetPosts, ...posts.filter((post) => !priority36Keywords.includes(post.title))].slice(0, 50);
+  const postCardsHtml = listingPosts.map(post => {
     const slug   = post.slug || post.seo_slug;
     const img    = resolvePostImage(post, postUploadDirectories, "cover_image");
     const date   = (post.published_at || post.created_at || "").slice(0, 10);
@@ -1191,7 +1199,7 @@ console.log(`   ✅ ${posts.length} مقالة`);
     <div style="display:flex;flex-direction:column;gap:12px">
       ${postCardsHtml}
     </div>
-    ${posts.length > 30 ? `<p style="text-align:center;color:#718096;margin-top:24px;font-size:14px">عرض أحدث 30 مقالاً — تصفّح الموقع لرؤية المزيد</p>` : ""}`;
+    ${posts.length > listingPosts.length ? `<p style="text-align:center;color:#718096;margin-top:24px;font-size:14px">عرض أحدث ${listingPosts.length} مقالاً — تصفّح الموقع لرؤية المزيد</p>` : ""}`;
 
   const html = renderPage({
     title: blogTitle, description: blogDesc, canonical: blogCanonical,

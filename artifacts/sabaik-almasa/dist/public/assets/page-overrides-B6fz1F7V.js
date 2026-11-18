@@ -1,0 +1,4 @@
+const n=new Set(["/","/about","/services","/cleaning-packages","/contact/شركة-تنظيف-بالرياض","/areas","/faq/تنظيف-المنازل-بالرياض","/terms","/privacy","/blog","/call-now"]);function u(r){let e;try{e=decodeURIComponent(r.trim())}catch{return null}return!e.startsWith("/")||e.includes("\\")||/[\u0000-\u001f?#]/u.test(e)||(e=e.replace(/\/{2,}/gu,"/").replace(/\/+$/u,"")||"/",e.split("/").some(t=>t==="."||t===".."))?null:n.has(e)||/^\/areas\/[a-z0-9-]+$/iu.test(e)?e:null}function s(r,e=2e4){return typeof r!="string"?"":r.replace(/<script\b[^>]*>[\s\S]*?<\/script\s*>/giu," ").replace(/<style\b[^>]*>[\s\S]*?<\/style\s*>/giu," ").replace(/<[^>]*>/gu," ").replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F]/gu," ").replace(/[ \t]+\n/gu,`
+`).replace(/\n{3,}/gu,`
+
+`).trim().slice(0,e)}export{u as n,s};

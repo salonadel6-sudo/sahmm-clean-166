@@ -1,0 +1,34 @@
+User-agent: *
+Allow: /
+Allow: /api/uploads/
+Disallow: /admin/
+Disallow: /api/
+
+# The production PHP response serves the same canonical URL below.
+Sitemap: __CLEANFLOW_SITE_ORIGIN__/sitemap.xml
+
+# AI search crawlers follow the same public-content rules as other agents.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Bytespider
+Disallow: /
+

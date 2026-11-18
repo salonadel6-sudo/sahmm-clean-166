@@ -55,6 +55,19 @@ node scripts/build-hostinger.mjs
 
 > لا تشغّل `pnpm dev` من جذر المشروع؛ كل تطبيق يملك خدمة تشغيل ومسار معاينة مستقلًا.
 
+## صفحات SEO للكلمات الـ36
+
+القائمة المعتمدة محفوظة في `scripts/data/priority-36-keywords.mjs`، ويُكتب محتوى كل صفحة مستقلة في ملفات `scripts/data/priority-36-page*.mjs` ثم تُجمع في `scripts/data/priority-36-long-form.mjs`. يجب أن يتجاوز المحتوى 3500 كلمة عربية أصلية لكل صفحة، مع روابط داخلية وصورة وبيانات SEO مناسبة.
+
+قبل تحديث قاعدة البيانات، شغّل:
+
+```bash
+node scripts/validate-priority-36-pages.mjs
+node scripts/apply-priority-36-content.mjs
+```
+
+يرفض أمر التطبيق النشر إذا كانت القائمة غير مكتملة أو تضمنت عبارة غير معتمدة، أو لم يتجاوز المحتوى 3500 كلمة عربية، أو غابت روابط الخدمة والتواصل وبيانات SEO المطلوبة. شغّل التحقق أولًا لمراجعة طول المحتوى، وتفرّده، وعناوين SEO وأوصافها، والصور والروابط الداخلية.
+
 ## البنية التقنية
 
 - **الواجهة:** React 19، Vite، TypeScript، Tailwind CSS، Wouter، Framer Motion، Lucide.

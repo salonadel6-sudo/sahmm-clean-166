@@ -1,0 +1,44 @@
+name: Submit Search Console sitemap
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  submit-sitemap:
+    runs-on: ubuntu-latest
+    env:
+      GSC_SITE_URL: ${{ vars.GSC_SITE_URL }}
+      GSC_SITEMAP_URL: ${{ vars.GSC_SITEMAP_URL }}
+      GSC_OAUTH_CLIENT_ID: ${{ secrets.GSC_OAUTH_CLIENT_ID }}
+      GSC_OAUTH_CLIENT_SECRET: ${{ secrets.GSC_OAUTH_CLIENT_SECRET }}
+      GSC_OAUTH_REFRESH_TOKEN: ${{ secrets.GSC_OAUTH_REFRESH_TOKEN }}
+    steps:
+      - name: Check whether Search Console automation is configured
+        id: configuration
+        shell: bash
+        run: |
+          if [[ -z "$GSC_SITE_URL" || -z "$GSC_OAUTH_CLIENT_ID" || -z "$GSC_OAUTH_CLIENT_SECRET" || -z "$GSC_OAUTH_REFRESH_TOKEN" ]]; then
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+            echo "Search Console OAuth is not configured; sitemap submission skipped."
+          else
+            echo "enabled=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Check out repository
+        if: steps.configuration.outputs.enabled == 'true'
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        if: steps.configuration.outputs.enabled == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Submit sitemap to Search Console
+        if: steps.configuration.outputs.enabled == 'true'
+        run: node scripts/submit-search-console-sitemap.mjs

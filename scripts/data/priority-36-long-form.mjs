@@ -9,8 +9,52 @@ import { priorityPage11Pages, priorityPage11Metadata } from "./priority-36-page1
 import { priorityPage12Pages, priorityPage12Metadata } from "./priority-36-page12.mjs";
 import { priorityPage13Pages, priorityPage13Metadata } from "./priority-36-page13.mjs";
 import { priorityPage14Pages, priorityPage14Metadata } from "./priority-36-page14.mjs";
+import { priorityPage15Pages, priorityPage15Metadata } from "./priority-36-page15.mjs";
+import { priorityPage16Pages, priorityPage16Metadata } from "./priority-36-page16.mjs";
+import { priorityPage17Pages, priorityPage17Metadata } from "./priority-36-page17.mjs";
+import { priorityPage18Pages, priorityPage18Metadata } from "./priority-36-page18.mjs";
+import { priorityPage19Pages, priorityPage19Metadata } from "./priority-36-page19.mjs";
+import { priorityPage20Pages, priorityPage20Metadata } from "./priority-36-page20.mjs";
+import { priorityPage21Pages, priorityPage21Metadata } from "./priority-36-page21.mjs";
+import { priorityPage22Pages, priorityPage22Metadata } from "./priority-36-page22.mjs";
+import { priorityPage23Pages, priorityPage23Metadata } from "./priority-36-page23.mjs";
+import { priorityPage24Pages, priorityPage24Metadata } from "./priority-36-page24.mjs";
+import { priorityPage25Pages, priorityPage25Metadata } from "./priority-36-page25.mjs";
+import { priorityPage26Pages, priorityPage26Metadata } from "./priority-36-page26.mjs";
+import { priorityPage27Pages, priorityPage27Metadata } from "./priority-36-page27.mjs";
+import { priorityPage28Pages, priorityPage28Metadata } from "./priority-36-page28.mjs";
+import { priorityPage29Pages, priorityPage29Metadata } from "./priority-36-page29.mjs";
+import { priorityPage30Pages, priorityPage30Metadata } from "./priority-36-page30.mjs";
+import { priorityPage31Pages, priorityPage31Metadata } from "./priority-36-page31.mjs";
+import { priorityPage32Pages, priorityPage32Metadata } from "./priority-36-page32.mjs";
+import { priorityPage33Pages, priorityPage33Metadata } from "./priority-36-page33.mjs";
+import { priorityPage34Pages, priorityPage34Metadata } from "./priority-36-page34.mjs";
+import { priorityPage35Pages, priorityPage35Metadata } from "./priority-36-page35.mjs";
+import { priorityPage36Pages, priorityPage36Metadata } from "./priority-36-page36.mjs";
 
 export const priorityLongFormPages = {
+  ...priorityPage36Pages,
+  ...priorityPage35Pages,
+  ...priorityPage34Pages,
+  ...priorityPage33Pages,
+  ...priorityPage32Pages,
+  ...priorityPage31Pages,
+  ...priorityPage30Pages,
+  ...priorityPage29Pages,
+  ...priorityPage28Pages,
+  ...priorityPage27Pages,
+  ...priorityPage26Pages,
+  ...priorityPage25Pages,
+  ...priorityPage24Pages,
+  ...priorityPage23Pages,
+  ...priorityPage22Pages,
+  ...priorityPage21Pages,
+  ...priorityPage20Pages,
+  ...priorityPage19Pages,
+  ...priorityPage18Pages,
+  ...priorityPage17Pages,
+  ...priorityPage16Pages,
+  ...priorityPage15Pages,
   ...priorityPage14Pages,
   ...priorityPage13Pages,
   ...priorityPage12Pages,
@@ -926,7 +970,29 @@ export const priorityLongFormPages = {
 `,
 };
 
-export const priorityPageMetadata = {
+const priorityPageMetadataBase = {
+  ...priorityPage36Metadata,
+  ...priorityPage35Metadata,
+  ...priorityPage34Metadata,
+  ...priorityPage33Metadata,
+  ...priorityPage32Metadata,
+  ...priorityPage31Metadata,
+  ...priorityPage30Metadata,
+  ...priorityPage29Metadata,
+  ...priorityPage28Metadata,
+  ...priorityPage27Metadata,
+  ...priorityPage26Metadata,
+  ...priorityPage25Metadata,
+  ...priorityPage24Metadata,
+  ...priorityPage23Metadata,
+  ...priorityPage22Metadata,
+  ...priorityPage21Metadata,
+  ...priorityPage20Metadata,
+  ...priorityPage19Metadata,
+  ...priorityPage18Metadata,
+  ...priorityPage17Metadata,
+  ...priorityPage16Metadata,
+  ...priorityPage15Metadata,
   ...priorityPage14Metadata,
   ...priorityPage13Metadata,
   ...priorityPage12Metadata,
@@ -938,11 +1004,13 @@ export const priorityPageMetadata = {
     category: "تنظيف الكنب والمفروشات",
     serviceSlug: "غسيل-مجالس-بالبخار-بالرياض",
     fallbackImage: "service-majlis.jpg",
+    seoTitle: "شركة تنظيف كنب بالرياض | نطاق الخدمة والعناية قبل الحجز",
   },
   "تنظيف كنب بالرياض": {
     category: "تنظيف الكنب والمفروشات",
     serviceSlug: "غسيل-مجالس-بالبخار-بالرياض",
     fallbackImage: "service-majlis.jpg",
+    seoTitle: "تنظيف كنب بالرياض | خطوات الخدمة وتجهيز الموعد العملي",
   },
   "شركة تنظيف مجالس بالرياض": {
     category: "تنظيف المجالس",
@@ -953,6 +1021,7 @@ export const priorityPageMetadata = {
     category: "تنظيف المجالس",
     serviceSlug: "غسيل-مجالس-بالبخار-بالرياض",
     fallbackImage: "service-majlis.jpg",
+    seoTitle: "تنظيف مجالس بالرياض | خطوات العناية وطلب الخدمة قبل الحجز",
   },
   "تنظيف كنب بالبخار بالرياض": {
     category: "تنظيف بالبخار",
@@ -963,10 +1032,49 @@ export const priorityPageMetadata = {
     category: "غسيل الكنب والمفروشات",
     serviceSlug: "غسيل-مجالس-بالبخار-بالرياض",
     fallbackImage: "service-majlis.jpg",
+    seoTitle: "غسيل كنب بالرياض: فحص الخامة وخطوات الخدمة قبل الحجز",
   },
   "شركة غسيل كنب بالرياض": {
     category: "غسيل الكنب والمفروشات",
     serviceSlug: "غسيل-مجالس-بالبخار-بالرياض",
     fallbackImage: "service-majlis.jpg",
+    seoTitle: "شركة غسيل كنب بالرياض | تفاصيل النطاق وطلب الخدمة والتجهيز",
   },
 };
+
+const seoTitleDescriptors = (keyword) => {
+  if (/أسعار/u.test(keyword)) return ["العوامل والتكلفة", "السعر وطريقة التقدير", "نطاق السعر والحجز"];
+  if (/شرق الرياض/u.test(keyword)) return ["التغطية والموعد", "الحي والخدمة", "تجهيز الموعد"];
+  if (/مكافحة|رش حشرات|مبيدات|صراصير|النمل|الفئران|بق الفراش/u.test(keyword)) {
+    return ["خطوات المكافحة الآمنة", "النطاق والاستعداد", "دليل الخدمة والوقاية"];
+  }
+  if (/خزان/u.test(keyword)) return ["خطوات التنظيف والعناية", "سلامة الخزان والخدمة", "النطاق والتجهيز"];
+  if (/مكيف|تكييف/u.test(keyword)) {
+    return ["تنظيف الوحدة والعناية", "التجهيز ونطاق الخدمة", "دليل العناية بالمكيف"];
+  }
+  if (/بالبخار/u.test(keyword)) return ["طريقة البخار والجفاف", "اختيار الطريقة المناسبة", "النطاق والتجهيز"];
+  return ["خطوات الخدمة والعناية", "نطاق الخدمة والتجهيز", "تفاصيل الخدمة والحجز", "العناية قبل وبعد الخدمة"];
+};
+
+const seoTitleFallbacks = [
+  "خطوات الخدمة والعناية", "نطاق الخدمة والتجهيز", "تفاصيل الخدمة والحجز",
+  "اختيار الطريقة المناسبة", "العناية قبل وبعد الخدمة", "معايير الخدمة قبل الحجز",
+  "المعلومات قبل الحجز", "خطوات التنظيف والعناية", "الاستعداد ونطاق العمل",
+  "خطوات العمل", "خطوات التنظيف", "النطاق", "الخدمة", "الطريقة", "العناية",
+  "الخطوات", "التنظيف", "الحجز", "الوقاية", "التجهيز",
+];
+
+function buildPriorityArticleSeoTitle(keyword) {
+  const candidates = [...seoTitleDescriptors(keyword), ...seoTitleFallbacks];
+  const title = candidates.map((descriptor) => `${keyword} | ${descriptor} | السهم كلين`)
+    .find((candidate) => [...candidate].length >= 50 && [...candidate].length <= 60);
+  if (!title) throw new Error(`Unable to create a 50–60 character SEO title for ${keyword}.`);
+  return title;
+}
+
+export const priorityPageMetadata = Object.fromEntries(
+  Object.entries(priorityPageMetadataBase).map(([keyword, metadata]) => [
+    keyword,
+    { ...metadata, seoTitle: buildPriorityArticleSeoTitle(keyword) },
+  ]),
+);

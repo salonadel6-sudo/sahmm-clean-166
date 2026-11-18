@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "minimumVisibleContentCharacters": 900,
+  "unsupportedTopicPatterns": [
+    "نقل\\s*(?:عفش|اثاث|مكيفات)",
+    "تصليح\\s*مكيفات",
+    "صيانة\\s*مكيفات",
+    "فك\\s*وتركيب\\s*مكيفات",
+    "فني\\s*مكيفات",
+    "مكيفات\\s*مستعمل",
+    "غسيل\\s*سيارات",
+    "تسليك\\s*مجاري",
+    "كشف\\s*تسربات",
+    "تطبيق\\s*تنظيف",
+    "مكيفات[\\s\\S]{0,30}مستعمل",
+    "مستعمل[\\s\\S]{0,30}مكيفات"
+  ],
+  "supportedServiceTopicPatterns": [
+    "تنظيف",
+    "نظافة",
+    "غسيل",
+    "جلي",
+    "تلميع",
+    "تعقيم",
+    "مكافحة",
+    "رش\\s*مبيدات",
+    "رش\\s*(?:حشرات|آفات)",
+    "[إا]بادة",
+    "عزل",
+    "تجهيز\\s*ملف\\s*السلامة",
+    "شهادة\\s*سلامة",
+    "تركيب\\s*أدوات\\s*(?:الحماية|الوقاية)\\s*من\\s*الحريق",
+    "تقرير\\s*فني\\s*(?:فوري|مجدول)",
+    "(?:ال)?تقرير\\s*(?:ال)?فني\\s*(?:ال)?(?:فوري|مجدول)",
+    "بيانات\\s*(?:ال)?تقرير\\s*(?:ال)?فني\\s*للمنش(?:أة|آت)",
+    "بيانات\\s*ملف\\s*السلامة\\s*للمنشأة",
+    "سجل\\s*زيارات\\s*صيانة\\s*(?:أنظمة\\s*)?السلامة",
+    "زيارات\\s*صيانة\\s*أنظمة\\s*السلامة",
+    "عقد\\s*صيانة\\s*(?:أنظمة\\s*)?(?:السلامة|الحريق|الدفاع\\s*المدني)"
+  ],
+  "rankMath": {
+    "engine": "Project-owned Rank Math-style SEO quality gate (not the official WordPress plugin)",
+    "version": 2,
+    "minimumPublishScore": 80,
+    "title": {
+      "minimum": 30,
+      "targetMinimum": 50,
+      "maximum": 60,
+      "hardMaximum": 70
+    },
+    "description": {
+      "minimum": 120,
+      "maximum": 160,
+      "hardMaximum": 200
+    },
+    "minimumWords": {
+      "homepage": 60,
+      "service": 30,
+      "package": 30,
+      "article": 300,
+      "landing": 150,
+      "area": 50,
+      "static": 50
+    },
+    "checks": {
+      "title": 12,
+      "titleLength": 5,
+      "keyword": 5,
+      "keywordTitle": 10,
+      "description": 10,
+      "descriptionLength": 5,
+      "keywordDescription": 5,
+      "h1": 8,
+      "keywordH1": 8,
+      "keywordIntroduction": 6,
+      "contentDepth": 10,
+      "slug": 5,
+      "keywordUrl": 4,
+      "canonical": 8,
+      "imageAlt": 4,
+      "internalLinks": 3,
+      "schema": 2
+    }
+  }
+}
