@@ -14,6 +14,7 @@
 
 - **الواجهة الأمامية (Frontend)** (المينا: 19770): `PORT=19770 BASE_PATH=/ pnpm --filter @workspace/cleanflow-services run dev`
 - **خادم الـ API** (المينا: 8080): `PORT=8080 pnpm --filter @workspace/api-server run dev`
+- **معاينة GitHub على المنفذ 8080**: شغّل API على `8081` والواجهة على `8080` مع `API_PORT=8081` حتى يعرض المنفذ العام ملفات الواجهة بدل API.
 - **مخطط قاعدة البيانات**: `pnpm --filter @workspace/db run push`
 - **إعادة تعبئة البيانات**: `pnpm --filter @workspace/db run seed`
 - **فحص الأنواع (Typecheck)**: `pnpm run typecheck`

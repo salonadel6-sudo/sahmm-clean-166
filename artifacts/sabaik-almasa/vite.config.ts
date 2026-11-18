@@ -9,6 +9,8 @@ import runtimeErrorOverlay from '@replit/vite-plugin-runtime-error-modal';
 
 const rawPort = process.env.PORT || '19770';
 const port = Number(rawPort) || 19770;
+const rawApiPort = process.env.API_PORT || '8080';
+const apiPort = Number(rawApiPort) || 8080;
 const basePath = process.env.BASE_PATH || '/';
 const buildSiteOrigin = resolveBuildSiteOrigin({
   ...process.env,
@@ -238,7 +240,7 @@ export default defineConfig({
     allowedHosts: true,
     proxy: {
       '/api': {
-        target: 'http://localhost:8080',
+        target: `http://127.0.0.1:${apiPort}`,
       },
     },
     fs: {
@@ -251,7 +253,7 @@ export default defineConfig({
     allowedHosts: true,
     proxy: {
       '/api': {
-        target: 'http://localhost:8080',
+        target: `http://127.0.0.1:${apiPort}`,
       },
     },
   },
